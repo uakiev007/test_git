@@ -10,3 +10,6 @@
 $shortTag = '<?';
 $aspTab = '<&';
 $test = 'test';
+$test1 = '12';
+
+
